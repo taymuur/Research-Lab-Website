@@ -1,2 +1,2 @@
 # Research-Lab-Website
-Front-end design of Power Research Lab at NUST - PNEC
+Front-end design of PRL website at NUST - PNEC
