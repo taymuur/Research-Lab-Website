@@ -421,7 +421,7 @@ body>.navbar .brand:hover {
 .jumbotron {
 	position: relative;
 	padding: 45px 0px 35px 0px;
-	color: #fff;
+	color: #ffffff ;
 	text-align: center;
 	text-shadow: 0 1px 3px rgba(0, 0, 0, .4), 0 0 30px rgba(0, 0, 0, .075);
 	background: #30393C;
@@ -477,6 +477,7 @@ img.publications-thumb {
 
 .caption {
 	margin: 10px;
+	text-align: center
 }
 
 .responsive-video {
@@ -557,11 +558,11 @@ ul.sponsors {
 #footer h3 {
 	font-size: 19px;
 	text-transform: uppercase;
-	font-family: BebasNeueRegular;
-	color: #8DBECE;
+	font-family: system-ui;
+	color: #8CB140 ;
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
-	border-bottom-color: #30393C;
+	border-bottom-color: #625f58;
 	line-height: 35px;
 	margin-bottom: 20px;
 	margin-top: 25px;
