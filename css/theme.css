@@ -18,6 +18,15 @@ body {
 
 /* Customize the navbar links to be fill the entire space of the .navbar */
 
+.nav__logo__box{
+	top: 1.25em;
+	position: absolute;
+	display: inline-block;
+	width: 8%;
+	z-index: 1;
+	max-height: 100px
+}
+
 .navbar .navbar-inner {
 	padding: 0
 }
